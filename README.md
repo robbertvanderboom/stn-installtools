@@ -7,7 +7,7 @@ Automatische installatie van **MplusKASSA 68.0.12** voor STN-support.
 Open **Windows PowerShell als administrator** en voer uit:
 
 ```powershell
-irm https://raw.githubusercontent.com/robbertvanderboom/stn-installtools/main/mplus.ps1 | iex
+irm https://raw.githubusercontent.com/robbertvanderboom/stn-installtools/main/mplus-68.0.12.ps1 | iex
 ```
 
 Deze opdracht downloadt en voert het publiek beschikbare script uit. Gebruik hem alleen als je de repository en eventuele wijzigingen vertrouwt.
